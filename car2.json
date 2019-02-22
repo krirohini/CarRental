@@ -7,8 +7,8 @@
          				"notes" : "Scratches on the front side of the car"
          			},
      		"perdayrent" : 	{
-        				"price" : 140,
-         				"discount" : 15
+        				"price" : 90,
+         				"discount" : 30
          			},
      		"metrics" : 	{
          				"yoymaintenancecost" : 3190.76,
@@ -28,8 +28,8 @@
          "notes":"Scratches on the back side of the car"
       },
       "perdayrent":{  
-         "price":140,
-         "discount":15
+         "price":240,
+         "discount":17
       },
       "metrics":{  
          "yoymaintenancecost":190.76,
@@ -49,8 +49,8 @@
          "notes":"Scratches on the front door of the car"
       },
       "perdayrent":{  
-         "price":140,
-         "discount":15
+         "price":190,
+         "discount":20
       },
       "metrics":{  
          "yoymaintenancecost":210.76,
@@ -71,8 +71,8 @@
          "notes":"Scratches on the front door of the car"
       },
       "perdayrent":{  
-         "price":140,
-         "discount":15
+         "price":180,
+         "discount":25
       },
       "metrics":{  
          "yoymaintenancecost":2198.76,
