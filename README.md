@@ -1,9 +1,8 @@
 # CarRental
 Convert JSON schema to Java Object
 
-The below represents the JSON schema for a car rental company. 
+The below represents the JSON schema for a car rental company, and schema definition is:
 
-Below is the schema definition
   "Car" : {
      "make": <String>
 	  "model": <String>
@@ -28,7 +27,7 @@ Below is the schema definition
     
    We have a list of cars in a json format file.
     
-    An example of the response is:
+   An example of the car object is:
      "Car" : {
      		"make": "Audi",
 	  	"model": "A7",
