@@ -64,7 +64,7 @@ public class CarQueries extends JsonParser {
 
 			float current_car_rentalPrice = car.getPerDayRent().getPrice();
 			
-			if (current_car_rentalPrice < lowest_perday_cost) {
+			if (current_car_rentalPrice > lowest_perday_cost) {
 				lowest_perday_cost = current_car_rentalPrice;
 				lowest_price_Obj = car;
 			} else {
@@ -86,8 +86,8 @@ public class CarQueries extends JsonParser {
 			}
 
 			float cost_after_discount = car.getPerDayRent().getPrice()
-					- car.getPerDayRent().getPrice();
-			if (cost_after_discount < lowest_perday_cost_after_discount) {
+					- car.getPerDayRent().getDiscount();
+			if (cost_after_discount > lowest_perday_cost_after_discount) {
 				lowest_perday_cost_after_discount = cost_after_discount;
 				lowest_price_Obj = car;
 			} else {
