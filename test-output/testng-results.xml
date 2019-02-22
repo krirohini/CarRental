@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2019-02-22T07:06:22Z" finished-at="2019-02-22T07:06:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2019-02-22T07:06:22Z" finished-at="2019-02-22T07:06:22Z">
+      <class name="com.rohini.rental.CarUnitTest">
+        <test-method status="PASS" signature="highestRevenueCar()[pri:0, instance:com.rohini.rental.CarUnitTest@210366b4]" name="highestRevenueCar" duration-ms="16" started-at="2019-02-21T23:06:22Z" finished-at="2019-02-21T23:06:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestRevenueCar -->
+      </class> <!-- com.rohini.rental.CarUnitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

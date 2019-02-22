@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.rohini.rental.CarUnitTest" duration-ms="20" started-at="2019-02-22T07:10:01Z" finished-at="2019-02-22T07:10:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20" started-at="2019-02-22T07:10:01Z" finished-at="2019-02-22T07:10:01Z">
+      <class name="com.rohini.rental.CarUnitTest">
+        <test-method status="PASS" signature="all_Blue_Teslas()[pri:0, instance:com.rohini.rental.CarUnitTest@61832929]" name="all_Blue_Teslas" duration-ms="7" started-at="2019-02-21T23:10:01Z" finished-at="2019-02-21T23:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- all_Blue_Teslas -->
+        <test-method status="PASS" signature="lowest_Perday_Rental_Cost_ByPrice()[pri:0, instance:com.rohini.rental.CarUnitTest@61832929]" name="lowest_Perday_Rental_Cost_ByPrice" duration-ms="1" started-at="2019-02-21T23:10:01Z" finished-at="2019-02-21T23:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lowest_Perday_Rental_Cost_ByPrice -->
+        <test-method status="PASS" signature="highestRevenueCar()[pri:0, instance:com.rohini.rental.CarUnitTest@61832929]" name="highestRevenueCar" duration-ms="0" started-at="2019-02-21T23:10:01Z" finished-at="2019-02-21T23:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestRevenueCar -->
+        <test-method status="PASS" signature="lowest_Perday_Rental_Cost_ByPrice_AfterDiscount()[pri:0, instance:com.rohini.rental.CarUnitTest@61832929]" name="lowest_Perday_Rental_Cost_ByPrice_AfterDiscount" duration-ms="0" started-at="2019-02-21T23:10:01Z" finished-at="2019-02-21T23:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lowest_Perday_Rental_Cost_ByPrice_AfterDiscount -->
+      </class> <!-- com.rohini.rental.CarUnitTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.rohini.rental.CarUnitTest -->
+</testng-results>
