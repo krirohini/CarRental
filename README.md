@@ -1,5 +1,5 @@
-# CarRental
-Convert JSON schema to Java Object
+
+# Convert JSON schema to Java Object
 
 The below represents the JSON schema for a car rental company, and schema definition is:
 
